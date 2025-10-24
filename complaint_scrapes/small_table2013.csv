@@ -1,0 +1,987 @@
+,Date,P_tags,LI_tags,URL_Text,URLs,Text
+0,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Board Letter to Chief,https://acrbgov.org/wp-content/uploads/2020/04/Board-Letter-to-Chief-12-50_Redacted.pdf,"['', 'CRO Mentor:\n\nNaor ot Atria\n\n‘ara Cty Coe\n\nDecember 13, 2013,\n\nChief George Turner\nCity of Atlanta Police Department\n226 Peachtree Street, S.W.\n‘Atlanta, Georgia 30303\n\nof MEL ACRB File 12-50\n\nRE: Compl\nDear Chief Turner:\n\nPlease be advised that the Atlanta Citizen Review Board (ACRB) has\n‘concluded its investigation and adjudication ofthe complaint filed by Mr.\nMalicging that Atlanta Police Officers Jerron Powell (Unique 1D #5613) and\nElizabeth Walters (Unique ID #02948) falsely arrested him on April 21, 2012. Mr.\nPowel. He further alleged that Officer Powell engaged in excessive force and was\nverbally abusive towards him.\n\n“The Board determined thatthe false arrest allegation against both OMicers\nPowell and Walters be assigned a finding of Exonerated. The Board further\ndetermined that the excessive force and abusive language allegations against\nOfficer Powell be assigned a finding of Not Sustained.\n\n“The file is available for review upon request. ‘The ordinance requires that\nthe Chief respond if writing regarding which recommendations are accepted,\n‘ejected, or will be implemented with modifications within thirty (30) days of the\nsubmission ofa recommendation for action by the Board tothe Chief. See Sec. 2-\n2211(0) ofthe Ordinance 07-0-0141\n\nere.\n\n|\n\nPaul Bartels\nBoard Chair\nce: Mayor Kasim Reed\n‘Council President Ceasar Mitchell\nMembers of the Atlanta City Councit\n‘ACRB Members\nExecutive Director Lee Reid\n\n55 Trinity Avenue, SW | City Hall Tower | Suite 9100 | Atlanta, GA 20303 | www.acrbgov.org | 404-865-8622\n']"
+1,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Chief Response,https://acrbgov.org/wp-content/uploads/2020/05/Chief-Response-12-50_Redacted.pdf,"['', ""CITY OF ATLANTA\n\nKeun Rees ‘225 Pewcee See SW ‘Aan Poe Doprnert\nMayer Reatn George 5038 “George Toner\n(abe s466000 Chee Pon\nJanuary 23,2014\nMr. Paul Bartels\n\nAllanta Citizen Review Board\nCity Hall Tower, Suite 9100\n55 Trinity Avenue, SW\n‘Ailanta, Georgia 30303\n\nRE: 12-50 Complain of\n\nDear Mr. Bartels:\n\n{am in receipt ofthe Atlanta Citizens Review Boulet dated December 13,2013\ntreonmending ha he algo hat Ofc Jron Powel nd Elabety Wales\nfuel arrested Mt Kon Ape 21,2072 be exonerate. Mt lather\naleged tat Oct Powell used exces fore and was vertally abusive towards him\nSateen\n\nBased upon its investigation, the Atlanta Police Department's Office of Professional\nStandards has concluded that there appeared to be no evidence that Mr AI Was falsely\ntarest or treated in an unprofessional manner on April 21,2012. As a result thereof,\nviolation of Atlanta Police Depaztment Work Rule 4.2.50 (Unnecessary Force) was not\nsustained,\n\nHaving assessed the Atlanta Citizens Review Board and the Department's investigative\n\nfindings regarding this matter, | accept the findings ofthe Atlanta Citizens Review\n\nBoard.\n\nLieutenant J.D. Webb, Acting Commander of the Office of Professional Standards, can\n\nbe contacted at (404) 658-7028, if you have any concems regarding this complaint,\nSincerely,\n\nyo eal\n\nChic Police\nReceived by:\nZhOwye WUT 1S\n""]"
+2,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Board Letter to Chief,https://acrbgov.org/wp-content/uploads/2020/04/Boad-Letter-to-Chief-13-57_Redacted.pdf," 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACRB Members 
+Paul Bartels 
+Chairperson 
+Maceo C. Williams, Sr. 
+Vice Chairperson 
+Alan Morris 
+Secretary 
+ 
+Osa Benson 
+Bill Bozarth 
+William Harrison 
+Barbara Hubbard 
+Ruth Price 
+Gerald Souder 
+ 
+Samuel Lee Reid II 
+Executive Director 
+ 
+Mayor of Atlanta 
+Kasim Reed 
+ 
+Atlanta City Council 
+Ceasar C. Mitchell 
+President 
+Carla Smith 
+District 1 
+Kwanza Hall 
+District 2 
+Ivory Lee Young, Jr. 
+District 3 
+Cleta Winslow 
+District 4 
+Natalyn Mosby Archibong 
+District 5 
+Alexander Wan 
+District 6 
+Howard Shook 
+District 7 
+Yolanda Adrean 
+District 8 
+Felicia A. Moore 
+District 9 
+Clarence T. Martin 
+District 10 
+Keisha Lance Bottoms 
+District 11 
+Joyce Sheperd 
+District 12 
+Michael Julian Bond 
+Post 1 
+Aaron Watson 
+Post 2 
+H. Lamar Willis 
+Post 3 
+ 
+ 
+55 Trinity Avenue, SW | City Hall Tower | Suite 9100 | Atlanta, GA 30303 | www.acrbgov.org | 404-865-8622 
+ 
+ 
+December 13, 2013 
+ 
+ 
+ 
+Chief George Turner 
+City of Atlanta Police Department 
+226 Peachtree Street, S.W. 
+Atlanta, Georgia 30303 
+ 
+ 
+RE: Complaint of
+, ACRB File 13-57 
+ 
+Dear Chief Turner: 
+ 
+Please be advised that the Atlanta Citizen Review Board (ACRB) has 
+concluded its investigation and adjudication of the complaint filed by Ms. 
+ alleging that Atlanta Police Officer Jon Ware (Unique ID 
+#5774) was verbally abusive towards him on May 30, 2013. 
+ 
+The Board determined that the abusive language allegation against Officer 
+Ware be assigned a finding of Sustained and recommends that an oral reprimand 
+be imposed as the penalty.  
+ 
+The file is available for review upon request.  The ordinance requires that 
+the Chief respond in writing regarding which recommendations are accepted, 
+rejected, or will be implemented with modifications within thirty (30) days of the 
+submission of a recommendation for action by the Board to the Chief.  See Sec. 2-
+2211(O) of the Ordinance 07-0-0141 
+Sincerely, 
+ 
+Paul Bartels 
+Board Chair 
+cc:  Mayor Kasim Reed 
+ 
+Council President Ceasar Mitchell  
+ 
+Members of the Atlanta City Council 
+ 
+ACRB Members 
+Executive Director Lee Reid 
+ 
+ 
+"
+3,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Chief Response,https://acrbgov.org/wp-content/uploads/2020/05/Chief-Response-13-57_Redacted.pdf,"['', ""CITY OF ATLANTA\n\nsen Rae 226 Ponce Suet, SH ars Poe Deparment\nioe ‘Hearts, Gouge 0 ‘GeageTarer\n“ase sae500 ‘niet at Paice\nJanuary 23, 2014\n\nMr Paul Bartels\nAtlanta Citizen Res\nG\n\n55 Trinity Avenue, SW\n‘Allanta, Georgia 30303\n\nRE: 13-57 Complaint of\n\nDear Mr. Bartels:\n\nam in receipt of the Atlanta Citizens Review Board's letter dated December 13, 2013\n\n‘coommending hath lesion tt Ofer Jon Ware was verbally abusive toward\nMi ARI 30, 2013 be sustained\n\nBased upon its investigation, the Atlanta Police Department's Office of Professional\n‘Standards has concluded that Officer Jon Ware be not sustained for APD work rule 4.2.2\nCourtesy\n\nHaving assessed the findings of both the Atlanta Citizens Review Board and the\nDepartment's investigative suramaries, I reject with the findings of the Atlanta Citizens\nReview Board on the above listed allegation.\n\nLieutenant J.D. Webb, Acting Commander ofthe Office of Professional Standards, can\nbe contacted at (404) 658-7028, if you have any concems regarding this complaint\n\nSincerely,\n\nChief of Police\n""]"
+4,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Boad Letter to Chief,https://acrbgov.org/wp-content/uploads/2020/04/Boad-Letter-to-Chief-13-48-_Redacted.pdf," 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACRB Members 
+Paul Bartels 
+Chairperson 
+Maceo C. Williams, Sr. 
+Vice Chairperson 
+Alan Morris 
+Secretary 
+ 
+Osa Benson 
+Bill Bozarth 
+William Harrison 
+Barbara Hubbard 
+Ruth Price 
+Gerald Souder 
+ 
+Samuel Lee Reid II 
+Executive Director 
+ 
+Mayor of Atlanta 
+Kasim Reed 
+ 
+Atlanta City Council 
+Ceasar C. Mitchell 
+President 
+Carla Smith 
+District 1 
+Kwanza Hall 
+District 2 
+Ivory Lee Young, Jr. 
+District 3 
+Cleta Winslow 
+District 4 
+Natalyn Mosby Archibong 
+District 5 
+Alexander Wan 
+District 6 
+Howard Shook 
+District 7 
+Yolanda Adrean 
+District 8 
+Felicia A. Moore 
+District 9 
+Clarence T. Martin 
+District 10 
+Keisha Lance Bottoms 
+District 11 
+Joyce Sheperd 
+District 12 
+Michael Julian Bond 
+Post 1 
+Aaron Watson 
+Post 2 
+H. Lamar Willis 
+Post 3 
+ 
+ 
+55 Trinity Avenue, SW | City Hall Tower | Suite 9100 | Atlanta, GA 30303 | www.acrbgov.org | 404-865-8622 
+ 
+ 
+December 6, 2013 
+ 
+ 
+ 
+Chief George Turner 
+City of Atlanta Police Department 
+226 Peachtree Street, S.W. 
+Atlanta, Georgia 30303 
+ 
+ 
+RE: Complaint of 
+, ACRB File 
+13- 48 
+ 
+ 
+Dear Chief Turner: 
+ 
+Please be advised that the Atlanta Citizen Review Board (ACRB) has 
+concluded its investigation and adjudication of the complaint filed by Mr. 
+ 
+ alleging that Atlanta Police Officers Daniel McFarlan (Unique ID #4718), 
+Michael Williams II (Unique ID #5478) and Sergeant Onnie Sherrer (Unique ID 
+#1404) falsely arrested him on April 16, 2013. 
+ 
+The Board determined that the false arrest allegation against all of the 
+aforementioned officers be assigned a finding of Exonerated. 
+ 
+The file is available for review upon request.  The ordinance requires that 
+the Chief respond in writing regarding which recommendations are accepted, 
+rejected, or will be implemented with modifications within thirty (30) days of the 
+submission of a recommendation for action by the Board to the Chief.  See Sec. 2-
+2211(O) of the Ordinance 07-0-0141 
+Sincerely, 
+ 
+Paul Bartels 
+Board Chair 
+cc:  Mayor Kasim Reed 
+ 
+Council President Ceasar Mitchell  
+ 
+Members of the Atlanta City Council 
+ 
+ACRB Members 
+Executive Director Lee Reid 
+ 
+"
+5,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Chief Response,https://acrbgov.org/wp-content/uploads/2020/05/Chief-Response-13-48_Redacted.pdf,"['', ""cITyY\n\nKaen Res ‘na PotcaDepartest\n‘oer ‘eager\nEni ot Paice\nDecember 30, 2013\nMr, Paul Bartels\nAllanta Citizen Review Board\n\nCity Hall Tower, Suite 9100\n55 Trinity Avenue, SW\nAilanta, Georgia 30303,\n\nRE: Complaint of J 5-48\n\n1 am in receipt of the Atlanta Citizen Review Board's letter dated December 6, 2013, in\nwhich it recommends that the allegation that Officers Michael Williams 11, Daniel\nMeFarlan and Sergeant Onnie Sherrer falsely arrested him on April 16, 2013 be\nexonerated.\n\n‘The Atlanta Police Department's Office of Professional Standards, (OPS), has concluded\nits investigation into this incident. As a result thereof, violation of Atlanta Police\n\nDepartment, (APD), Employee Work Rule 4.1.01 (Appropriate Action Required) was\nexonerated.\n\nHaving assessed the Atlanta Citizens Review Board and the Department's investigative\nfindings regarding this matter, I accept the findings of the Atlanta Citizens Review\nBoard.\n\nMajor E. Dancy, Commander of the Office of Professional Standards, can be contacted\nat (404) 658-7028, if you have any concems regarding this complaint\n\nSincerely,\n\nree. Turner\nChieF of Police\n\nGNT iw\n\nWh 4g EB om\n""]"
+6,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Chief Responses,https://acrbgov.org/wp-content/uploads/2020/05/Chief-Responses-13-34_Redacted.pdf,"['', 'CITY OF ATLANTA\n\nKem Road 225 Peace Set SW ‘Meta Poe Dsartmert,\n‘myer ‘Ataen Geom 30393 “Geope Tamer\n(aon 5460500 ‘it at Paice\n\nNovember 14, 2013\n\n‘Mr. Paul Bartels\n<Allanta Citizens Review Board\nCity Hall Tower, Suite 9100\n55 Trinity Avenue, SW\nAilanta, Georgia 30303,\n\nRE: 1534 Complain of\n\nDear Mr. Bartels:\n\n| am in receipt of the Atlanta Citizen Review Board’s letter, dated October 21, 2013,\nrecommending that the allegation of excessive force be not sustained against Officer\nBarcolino LeConte,\n\n[this time, the Office of Professional Standards has not concluded its investi\nthe allegations surrounding the excessive force of Mr. NIH Therefore, in an effort to\nbe in compliance withthe City Ondinance [See. 2-2211 (0) am obligated at this time\nto reject your recommendation as it is imperative that the Atlanta Police Department\nafford our employees their due process. Once the Office of Professional Standards has\ncompleted its investigation, I will reconsider the recommendation of the ACRB.\n\nMajor E. Daney, Commander of the Office of Professional Standards, can be contacted\nat 404) 658.7028, if you have ay further concerns regarding ths complain.\n\nSincerely,\n\n<=\n\nGeorge N. Turner\nChief of Police\n\nGNT)iw\n']"
+7,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Not Sustained/Sustained (PDF),https://acrbgov.org/wp-content/uploads/2015/05/ACRB-Complaint-No-13-49.pdf," 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACRB Members 
+Paul Bartels 
+Chairperson 
+Maceo C. Williams, Sr. 
+Vice Chairperson 
+Alan Morris 
+Secretary 
+ 
+Osa Benson 
+Bill Bozarth 
+William Harrison 
+Barbara Hubbard 
+Ryan C. Johnson 
+Ruth Price 
+ 
+Samuel Lee Reid II 
+Executive Director 
+ 
+Mayor of Atlanta 
+Kasim Reed 
+ 
+Atlanta City Council 
+Ceasar C. Mitchell 
+President 
+Carla Smith 
+District 1 
+Kwanza Hall 
+District 2 
+Ivory Lee Young, Jr. 
+District 3 
+Cleta Winslow 
+District 4 
+Natalyn Mosby Archibong 
+District 5 
+Alexander Wan 
+District 6 
+Howard Shook 
+District 7 
+Yolanda Adrean 
+District 8 
+Felicia A. Moore 
+District 9 
+Clarence T. Martin 
+District 10 
+Keisha Lance Bottoms 
+District 11 
+Joyce Sheperd 
+District 12 
+Michael Julian Bond 
+Post 1 
+Aaron Watson 
+Post 2 
+H. Lamar Willis 
+Post 3 
+ 
+ 
+55 Trinity Avenue, SW | City Hall Tower | Suite 9100 | Atlanta, GA 30303 | www.acrbgov.org | 404-865-8622 
+ 
+ 
+October 21, 2013 
+ 
+ 
+ 
+Chief George Turner 
+City of Atlanta Police Department 
+226 Peachtree Street, S.W. 
+Atlanta, Georgia 30303 
+ 
+ 
+RE: ACRB Complainant File No. 13-49     
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Dear Chief Turner: 
+ 
+Please be advised that the Atlanta Citizen Review Board (ACRB) has 
+concluded its investigation and adjudication of the complaint filed by Complainants One 
+(male) and Complainant Two (female) alleging excessive force, abusive language and 
+false imprisonment against Atlanta Police Officer Aqueelah James (Unique ID #4722) 
+during an incident that occurred on May 27, 2013. 
+ 
+The Board determined that the abusive language and excessive force allegations 
+against Officer James be assigned a finding of Not Sustained.  The Board determined that 
+there was sufficient evidence to Sustain the false imprisonment allegation and 
+recommended that the following discipline be imposed: 
+ 
+• 
+Written Reprimand 
+• 
+Training on what constitutes “reasonable suspicion” and “probable 
+cause.”  
+ 
+The file is available for review upon request.  The ordinance requires that the 
+Chief respond in writing regarding which recommendations are accepted, rejected, or will 
+be implemented with modifications within thirty (30) days of the submission of a 
+recommendation for action by the Board to the Chief.  See Sec. 2-2211(O) of the 
+Ordinance 07-0-0141 
+Sincerely, 
+ 
+Paul Bartels 
+Board Chair 
+cc:  Mayor Kasim Reed 
+ 
+Council President Ceasar Mitchell  
+ 
+Members of the Atlanta City Council 
+ 
+ACRB Members 
+Executive Director Lee Reid 
+"
+8,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Chief Response Case 13-49 (Redacted),https://acrbgov.org/wp-content/uploads/2015/05/Chief-Response-Case-13-49-Redacted.pdf,"['', 'CITY OF ATLANTA\n\nerrr “Sree\nNovember 14, 2013\nMr, Paul Bartels\n\nAlanta Citizens Review Board\nCity Hall Tower, Suite 9100\n155 Trinity Avenue, SW\n‘Allanta, Georgia 30303\n\nRE: TT\nDear Mr. Bartels:\n\n| am in receipt of the Atlanta Citizen Review Roard’s letter, dated October 21, 2013,\nrecommending that the allegations of excessive force and abusive language be not\nsustained and false imprisonment be sustained against Officer Aqueelah James.\n\n‘At this time, the Office of Professional Standards has not concluded its investigation into\nthe allegations surrounding the excessive force, abusive language and false\nimprisonment of Mr. SMR and Ms. AUENNNNN Therefore, in an effort to be in\ncompliance withthe City Ordinance [See. 2-2211 (0), 1 am obligated at this time to\nreject your recommendation as itis imperative that the Atlanta Police Department afford\n‘our employees their due process. Once the Office of Professional Standards has\n‘completed its investigation, I will reconsider the recommendation ofthe ACRB.\n\nMajor E. Dancy, Commander of the Office of Professional Standards, can be contacted\nat (404) 658-7028, if you have any further concems regarding this complaint.\n\nSincerely,\n\nChief of Police\n\nGNTiw\n']"
+9,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Chief 2nd Response Rejected (Redacted),https://acrbgov.org/wp-content/uploads/2015/05/Chief-2nd-Response-Rejected-PDF-Case-13-49.pdf,"['', ""‘FILE Copy\n\nCITY OF ATLANTA\n\n“oa pe aceeer\n‘asia soe\nSepentec3,201\n\n‘Me. William Harrison\n‘Allanta Citizen Review Board\nCity Hall Tower, Suite 9100\n155 Trinity Avenue, SW\n‘Allan GA 30303\n\nLS) | A aR TEE,\n\nDear Mr. Harrison:\n\n‘Lam in receipt ofthe Atlanta Citizen Review Board's eter, dated October 21, 2013,\nrecommending that the allegation of Excessive Force and Abusive Language be not\n\nsustained, nd the allegation of False Imprisonment be sustained agains Officer\n‘Aqueelah James\n\nIn accordance with Section 2-221 1(0 ofthe City of Atlanta Code of Ordinances, the\n‘Alana Police Deparment forwarded alee staling that te Ofice of Professional\nSundards (OPS) had not concloded is avesigntion it the all i\nincident reperding Officer Aquela Jes, Me Pond Mi\n\nbad to reject your recommendation At this time, the OPS investigation has concluded,\nad based upon evidence conained therein, te allegation of 4250 Unnecessary Fore,\nand 422 Courtesy, were nt sustained against Officer Aqueelah James. The OPS\ninvestigation also revealed that there was no evidence Officer Aqueelah James falsely\narrested Mr.\n\nHaving assessed the Alana Citizen Review Board nd the Department's investigative\nfindings regarding this matter, | reject the findings of the Atlanta Citizen Review Board.\nMajor V. Dalton, Commander ofthe Office of Professional Sundar, can be contacted\n3 404-658-7028, i'you have any concer regarding his complain\n\nSincerely,\n————\nN forier\nChieFofPotce\nKaha) seceived by:\n\nB wig\n""]"
+10,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Chief Response,https://acrbgov.org/wp-content/uploads/2020/05/Chief-Response-12-53_Redacted.pdf,"['', ""CITY OF ATLANTA\n\nage sett 0 sma en\nutter, 201\nMe Pa Bat\n\n‘Allanta Citizen Review Board\nCity Hall Tower, Suite 9100\n55 Trinity Avenue, SW\nAilanta, Ga, 30303\n\nRE: 12-53 Complaint of ['\nDear Mr. Bartels:\n\n{1am in receipt of the Atlanta Citizen Review Board’s letter dated September 23,2013, in\nwhich it recommends the allegations that Officer Anthony Blair falsely arrested Ms,\n\n‘on October 2, 2012 be not sustained; and that Officer Blair used\n‘excessive force be exonerated\n\nThe Atlanta Police Department's Office of Professional Standards (OPS) has concluded\nits investigation into this incident. As a result thereof, the allegation that Officer\nAnthony Blair violated Atlanta Police Department Work Rule 4.2.50 (Unnecessary\nForce) was exonerated. There was also insufficient evidence to suggest that Officer Blair\nfalsely arrested Ms, fAluring this incident.\n\nHaving assessed the Atlanta Citizen Review Board and the Department's investigative\nfindings regarding this matter, | accept the findings of the Atlanta Citizen Review Board.\n\nMajor E. Dancy, Commander of the Office of Professional Standards, can be contacted\nat 404-658-7028, if you have any concerns regarding this complaint.\n\nSincerely,\n\nChief of Police\n""]"
+11,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Board Letter to Chair,https://acrbgov.org/wp-content/uploads/2020/04/Board-Letter-to-Chair-13-38_Redacted.pdf," 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACRB Members 
+Paul Bartels 
+Chairperson 
+Maceo C. Williams, Sr. 
+Vice Chairperson 
+Alan Morris 
+Secretary 
+ 
+Osa Benson 
+Bill Bozarth 
+William Harrison 
+Barbara Hubbard 
+Ryan C. Johnson 
+Ruth Price 
+Samuel Lee Reid II 
+Executive Director 
+ 
+Mayor of Atlanta 
+Kasim Reed 
+ 
+Atlanta City Council 
+Ceasar C. Mitchell 
+President 
+Carla Smith 
+District 1 
+Kwanza Hall 
+District 2 
+Ivory Lee Young, Jr. 
+District 3 
+Cleta Winslow 
+District 4 
+Natalyn Mosby Archibong 
+District 5 
+Alexander Wan 
+District 6 
+Howard Shook 
+District 7 
+Yolanda Adrean 
+District 8 
+Felicia A. Moore 
+District 9 
+Clarence T. Martin 
+District 10 
+Keisha Lance Bottoms 
+District 11 
+Joyce Sheperd 
+District 12 
+Michael Julian Bond 
+Post 1 
+Aaron Watson 
+Post 2 
+H. Lamar Willis 
+Post 3 
+ 
+ 
+ 
+ 
+55 Trinity Avenue, SW | City Hall Tower | Suite 9100 | Atlanta, GA 30303 | www.acrbgov.org | 404-865-8622 
+ 
+ 
+ 
+September 23, 2013 
+ 
+ 
+ 
+ 
+Chief George Turner 
+City of Atlanta Police Department 
+226 Peachtree Street, S.W. 
+Atlanta, Georgia 30303 
+ 
+ 
+RE: Complaint of 
+ 
+ACRB Case File No. 13-38 
+ 
+Dear Chief Turner: 
+ 
+Please be advised that the Atlanta Citizen Review Board (ACRB) has 
+concluded its investigation and adjudication of the complaint filed by 
+.  Mr. 
+ alleges that Atlanta Police Officer Brandon Hamberger (Unique ID: 2848) 
+harassed him during an incident that occurred on May 18, 2013. 
+ 
+The Board determined that there was insufficient evidence to support the 
+complaint as alleged by Mr. 
+.  Therefore, the Board voted and assigned a finding 
+of not sustained to the allegation against Officer Hamberger. 
+ 
+The investigative file is available for review upon request.  The ordinance requires 
+that the Chief respond in writing regarding which recommendations are accepted, rejected, 
+or will be implemented with modifications within thirty (30) days of the submission of a 
+recommendation for action by the Board to the Chief.  See Sec. 2-2211(O) of the 
+Ordinance 07-0-0141 
+Sincerely, 
+ 
+Paul Bartels 
+Board Chair 
+ 
+cc:  Mayor Kasim Reed 
+ 
+Council President Ceasar Mitchell  
+ 
+Members of the Atlanta City Council 
+ 
+ACRB Members 
+Executive Director Lee Reid 
+www.Acrbgov.org 
+ 
+ 
+"
+12,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Chief Response,https://acrbgov.org/wp-content/uploads/2020/05/Chief-Response-3-38_Redacted.pdf,"['', 'CITY OF ATLANTA\n\nKaun Res 220 Pesce Suet SW _Atwta Polen Departest\nayer Raia George 30003 ‘Geagen Teer\n(ase senso ‘hit at Pole\n\nNovember 14, 2013,\n\nMr. Paul Bartels\nAilanta Citizens Review Board\nCity Hall Tower, Suite 9100\n55 Trinity Avenue, SW\n‘Atlanta, Georgia 30303,\n\nRE: 1338 Complain of\n\nDear Mr, Bartels:\n\n1am in receipt of the Atlanta Citizen Review Boanfs letter, dated September 23, 2013,\nrecommending thatthe allegation of harassment be not sustained against Officer\nBrandon Hamberger.\n\nAt this time, the Office of Professional Standards has not concluded its investigation into\nthe allegations surrounding harassment of Mr. Holliman. ‘Therefore, in an effort to be in\n‘compliance with the City Ordinance (Sec. 2-221 (0)], 1am obligated a this time to\nreject your recommendation as itis imperative thatthe Atlanta Police Department afford\n‘our employees their due process. Once the Office of Professional Standards has\n‘completed its investigation, I will reconsider the recommendation of the ACRB.\n\n‘Mayor E. Daney, Commander of the Office of Professional Standards, can be contacted\nat (404) 658-7028, if you have any further concerns regarding this complaint\n\nSincerely,\n\n_——\n\nGeorge N. Turner\nChief of Police\n\nGNT)iw\n']"
+13,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Board Letter to Chief,https://acrbgov.org/wp-content/uploads/2020/04/Board-Letter-to-Chief-13-35_Redacted.pdf," 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACRB Members 
+Paul Bartels 
+Chairperson 
+Maceo C. Williams, Sr. 
+Vice Chairperson 
+Alan Morris 
+Secretary 
+ 
+Osa Benson 
+Bill Bozarth 
+William Harrison 
+Barbara Hubbard 
+Ryan C. Johnson 
+Ruth Price 
+ 
+Samuel Lee Reid II 
+Executive Director 
+ 
+Mayor of Atlanta 
+Kasim Reed 
+ 
+Atlanta City Council 
+Ceasar C. Mitchell 
+President 
+Carla Smith 
+District 1 
+Kwanza Hall 
+District 2 
+Ivory Lee Young, Jr. 
+District 3 
+Cleta Winslow 
+District 4 
+Natalyn Mosby Archibong 
+District 5 
+Alexander Wan 
+District 6 
+Howard Shook 
+District 7 
+Yolanda Adrean 
+District 8 
+Felicia A. Moore 
+District 9 
+Clarence T. Martin 
+District 10 
+Keisha Lance Bottoms 
+District 11 
+Joyce Sheperd 
+District 12 
+Michael Julian Bond 
+Post 1 
+Aaron Watson 
+Post 2 
+H. Lamar Willis 
+Post 3 
+ 
+ 
+ 
+55 Trinity Avenue, SW | City Hall Tower | Suite 9100 | Atlanta, GA 30303 | www.acrbgov.org | 404-865-8622 
+ 
+September 23, 2013 
+ 
+ 
+ 
+Chief George Turner 
+City of Atlanta Police Department 
+226 Peachtree Street, S.W. 
+Atlanta, Georgia 30303 
+ 
+ 
+RE: Complaint of 
+ 
+ACRB Case File No. 13-35 
+ 
+Dear Chief Turner: 
+ 
+Please be advised that the Atlanta Citizen Review Board (ACRB) has 
+concluded its investigation and adjudication of the complaint filed by 
+.  Mr. 
+ alleges that Atlanta Police Officer Samuel Louis, Jr. (Unique ID No. 5908) falsely 
+arrested him during an incident that occurred on May 10, 2013. 
+ 
+The Board determined that based on the investigation there is sufficient evidence 
+to conclude that Officer Louis committed the alleged acts of misconduct.  Therefore, the 
+Board voted to sustain the allegation and recommends that Officer Louis Jr. receives 
+‘probable cause’ training.  The Board further recommends that with regard to this 
+particular case, the supervising officer go step-by-step presenting to Officer Louis what he 
+did or did not do wrong. 
+ 
+The investigative file is available for review upon request.  The ordinance requires 
+that the Chief respond in writing regarding which recommendations are accepted, rejected, 
+or will be implemented with modifications within thirty (30) days of the submission of a 
+recommendation for action by the Board to the Chief.  See Sec. 2-2211(O) of the 
+Ordinance 07-0-0141. 
+ 
+Sincerely, 
+ 
+Paul Bartels 
+Board Chair 
+ 
+ 
+cc:  Mayor Kasim Reed 
+ 
+Council President Ceasar Mitchell  
+ 
+Members of the Atlanta City Council 
+ 
+ACRB Members 
+Executive Director Lee Reid 
+www.Acrbgov.org 
+"
+14,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Chief Response,https://acrbgov.org/wp-content/uploads/2020/05/Chief-Response-13-35_Redacted.pdf,"['', 'CITY OF ATLANTA\n\nese Rees 226 Pesce Suet SW Atari Potea Depart\nio ‘awa con 8\n\nOctober 14,2013,\n\nRE: 13-35 Complaint (\nDear Mr. Bartels:\n\n1 am in receipt of the Atlanta Citizen Review Board’s letter, dated September 23, 2013,\nrecommending that the allegation of false arrest be sustained against Officer Samuel\nLouis J.\n\nAt this time, the Office of Professional Standards has not concluded its investigation into\nthe allegations surrounding the false arrest of Mr. Blocker. Therefore, in an effort to be\nin compliance with the City Ordinance [Sec. 2-2211 (o)], | am obligated at this time to\nreject Your recommendation as it is imperative that the Atlanta Police Department afford\nour employees their due process. Once the Office of Professional Standards has\n‘completed its investigation, I will reconsider the recommendation of the ACRB.\n\nMajor E. Dancy, Commander of the Office of Professional Standards, can be contacted\nat (404) 658-7028, if you have any further concems regarding this complaint.\n\nSincerely,\n\nChief of Police\n\nONT)iw\n']"
+15,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Board Letter to Chief,https://acrbgov.org/wp-content/uploads/2020/04/Board-Letter-to-Chief-13-03_Redacted.pdf,"['', '‘ACRE Members\n\nMayr ot Ata\n\nAnta ity Count\n\n‘55 Trinity Avenue, SW | City Hall Tower | Suite 9100 | AUlanta, GA 30303 | www acrbgov.org | 404-865-8622\n\nAugust 15,2013\n\n(Chief George Turner\nity of Atlanta Police Department\n226 Peachiree Stree, S.W.\n‘Adanta, Georgia 30303,\n\nRE: Complaint\n""ACRB Cate File No, 1503\nDear Chief Turner:\n\nPlease be advised that the Atlanta Citizen Review Board (ACRB) has\nconclused its investigation and adjudication ofthe complain fed ty A Mr.\n\nGEM alicges thatan unknown Atlanta Police Officer falsely arrested him and used\n\n‘excersve force and abusive inguage against him during an incident that occured on\nDecember 27, 2012.\n\n‘The Board determined that there was insufficient evidence to support the\ncomplaint a alleged by Mri. Therefore, the Board voted and made the following\ndetermination regarding each allegati\n\n‘False Arrest was determined to be unfounded.\n‘© Excessive Force assigned a finding of not sustained.\n‘© Abusive Language assigned a finding of not sustained.\n\n‘The investigative file i availble for review upon request. The ordinance requires\nthat the Chet respond in writing regarding which recommendations ae accepted, rejected,\nor will be implemented with modifications within tiny (30) days ofthe submission of @\nrecommendation for action by the Board to the Chief. See Sec. 2-2211(0) of the\nOrdinance 070-0141\n\nSincerely,\n\nPOE Bach:\n\nPaul Bartels\nBoard Chair\n\n‘ec: Mayor Kasim Reed\nCouncil President Ceasar Mitchel\n‘Members ofthe Atlanta City Counc\n‘ACRB Members\nExecutive Director Le Reid\n\n']"
+16,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Chief Response,https://acrbgov.org/wp-content/uploads/2020/05/Chief-Response-13-03_Redacted.pdf,"['', ""Kova Wy Inari 4IIeIIS\n\nCITY\nKou Reet ‘Ate Poe Daparert\nter ‘George Tener\n‘rita Pics\nAugust 29, 2013,\nMr. Paul Bartels\n\nAllanta Citizen Review Board\nCity Hall Tower, Suite 9100\n55 Trinity Avenue, SW\nAilanta, Georgia 30303\n\nRE: Complain of SI 3-03\nDear Mr. Bartels:\n\n1 am in receipt of the Atlanta Citizen Review Board’ letter dated August 15, 2013. In\n‘hich, it recommends that the allegation that an unknown officer falsely imprisoned Mr.\nMH and used excessive force and abusive language against him during an incident\nthat occurred on December 27, 2012. The board determined the allegation of false\nimprisonment to be unfounded and the allegations of excessive force and abusive\nlanguage to be not sustained.\n\n‘The Atlanta Police Department's Office of Professional Standards, (OPS), has conchuded\nits investigation into this incident. As a result thereof, violations of Atlanta Police\nDepartment, (APD), Employee Work Rule 4.1.01 (Appropriate Action Required),\nEmployee Work Rule 42.02 (Courtesy) and Employee Work Rule 42.50 (Unnecessary\nForce) were not sustained\n\nHaving assessed the Atlanta Citizens Review Board and the Department's investigative\nfindings regarding this matter, I accept the findings of the Atlanta Citizens Review\n\nIf you have any concems regarding this complaint, Major E. Dancy, Commander of the\nOffice of Professional Standards, can be contacted at (404) 658-7028,\n\nSincerely,\n\nfa\n\nGeorg. Turner\nChief of Police\n""]"
+17,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Board Letter to Chief,https://acrbgov.org/wp-content/uploads/2020/05/Board-Letter-to-Chief-13-07_Redacted.pdf,"['', 'CRB Members\n\nMayr of ants\n\n‘Ata City Coun\n\nAugust 15,2013\n\nChief George Turner\nGity of Atlanta Police Department\n226 Peachtree Steet, S.W.\n‘Aldana, Georgia 30303,\n\nRE: Complaint of NNN ACRE Case\nFile No. 13.07\n\nDear Chief Turner:\n\nPlease be advised that the Alenia Citizen Review Board (ACRB) has\nconcluded its investigation and adjudication of the complaint filed jy Mr.\nScott alleges thatan unknown Allanta Police Oficer falsely arrested him and used\nexcessive force and abusive language against him during an incident that occured on\nDecember 27,2012.\n\n‘The Board determined_that there wat insuficient evidence to suppor the\ncomplint a8 alleged by Mr MIB. Therefore, the Board voted and made the following\ndetermination regarding each allegation:\n\n‘+ Fale Arrest was determined wo be unfounded.\nExcessive Fore assigned a finding of not sustained.\n‘© Abusive Language assigned a finding of not sustained.\n\n“The investigative file is available for review upon request, The ordinance requires\nthat the Chet respond in writing regarding which recommendations are accepted, rejected,\nor will be implemented with modifications within thity (30) days of the submission of\n\nrecommendation for action by the Board to the Chief. See Sec. 22211(0) of the\nOrdinance 070.0141\n\nSincerely,\n\nPaul Bartels\n\nBoard Chair\n\nce: Mayor Kasim Reed\n‘Council President Ceasar Michell\nMembers of the Atlanta City Council\n‘ACRB Members\nExecutive Director Lee Reid\nworw Acrbgov.ong\n\n55 Trinity\n\nve, SW | City Hall Tower | Suite 9100 | Atlanta, GA 30303 | www acrbgov.org | 404-865-8622\n']"
+18,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Chief Response,https://acrbgov.org/wp-content/uploads/2020/05/Chief-Response-13-07_Redacted.pdf,"['', ""I\n\nRevd by Inari 42413\n\nCITY OF ATLANTA\n\nKasi Ree 228 Pascoe Sst SW tara Pesce Deoarnens\nyer ‘area Goo 30803 ‘George Tuer\n(abe 5466900 ‘hit ot Paice\nAugust 29, 2013\nMr Paul Bartels\nAtlanta Citizen Review Board\n\nCity Hall Tower,\n55 Trinity Avenue, SW\nAlanta, Georgia 30303\n\nRE: Complain A 3-07\n\nDear Mr. Bartels:\n\n1am in receipt ofthe Atlanta Citizen Review Boas ltr dated August 15,2013. In\n‘hic, i rcoramends thatthe allgton tnt an unknown efcr used exceaiveforca\nthd abusive language gant Vr. ring on ode ht llogely occured\non December 272012 be ma suse\n\n‘The Atlanta Police Department's Office of Professional Standards, (OPS), has concluded\nits investigation into this incident, As a result thereof, violations of Atlanta Police\nDepartment, (APD), Employee Work Rule 4.2.50 (Unnecessary Force) and Employee\nWork Rule 42.02 Courtesy were uot sustained,\n\nHaving assessed the Atlanta Citizens Review Boand and the Department's investigative\nfindings regarding this matter, I accept the findings of the Atlanta Citizens Review\nBoatd.\n\nIfyou have any concems regarding this complaint, Major E. Dancy, Commander of the\nOifice of Professional Standards, ean be contacted at (404) 688-7028,\n\nSincerely,\n\nChief of Potice\n""]"
+19,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Chief Response,https://acrbgov.org/wp-content/uploads/2020/05/Chief-Response-12-34_Redacted.pdf,"['', ""Kovd ky havi AI\n\nasin Reed ‘Aran Potce Dapanert\ner Siren\nAugust 20, 2013,\nMr. Paul Bartels\n\n‘Allanta Citizen Review Board\nCity Hall Tower, Suite 9100\n55 Trinity Avenue, SW\n‘Allanta, Georgia 30303\n\nRE: 12.34, Complaint of\n\nDear Mr, Bartels:\n\n1 am in reciptof the Atlanta Citizen Review Board's letter dated July 26, 2013. In\nwhich, it recommends thatthe allegations that Officer Wayne MeCaila used excessive\nforce agsins Mon August 27, 2012 be no sustained\n\nThe Atlanta Police Department's Office of Professional Standards, (OPS), has concluded\nits investigation into this incident. As a result thereof, violation of Atlanta Police\nDepartment, (APD), Employee Work Rule 4.2.50 (Unnecessary Force) was not\nsustained. The Atlanta Police Department, (APD), Employee Work Rule 4.2.02\n(Courtesy) was not sustained,\n\nHaving assessed the Atlanta Citizens Review Board and the Department's investigative\nfindings regarding this matter, I accept the findings of the Atlanta Citizens Review\nBoard. This letter will be forwarded to Officer McCalla’s direct chain of command for\nreview of your concerns.\n\n‘If you have any concems regarding this complaint, Major E. Dancy, Commander of the\nOffice of Professional Standards can be contacted at (404) 658-7028,\n\nSincerely,\n\nKee —\n\nChief of Potice\n""]"
+20,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Board Letter to Chief,https://acrbgov.org/wp-content/uploads/2020/05/Board-Letter-to-Chief-12-11_Redacted.pdf,"['', 'ACRE Members\nokie June 20, 2013\n\n‘Chief George Turner\nho City of Atlanta Police Department\na 226 Peachtree Street, 8.W.\nAllania, Georgia 30303\n\nRE: Complaint of MIND ACRB File 12-11\n\nDear Chief Turner:\n\nPlase be advised tha the Alla. Chizen Review Board (ACRBD has\nonl investigation and coeatin of he compli ied by\nalleging at Alana Police Offices Christopher Therion (Uniqs ID M4788), Tyrone\nHicks (Unique 1 #8271), Joseph Daniel (Unique ID #5447 and Lakas Sadak Unique\n1D #5526, used excesve force gant hm dting an nin! hat occured on May 10,\n\nAtlanta cty Counc 2012.\n\n‘The Board determined that there was sufficient evidence to Sustain the allegation\nagainst Officer Thornton and is recommending the following discipline be imposed in\n\nya amg ‘+ Excessive Foree~Ten (10) day suspension\n\n: ‘The Board further determined that the allegation of excessive force against\nSuse Moly Schou Officers Hicks, Daniels, and Sajdak be assigned a finding of Not Sustaines\n\naes The file is available for review upon request. The ordinance requires that the\nCChiet respond in writing regarding which recommendations are accepted, rejected, of will\n‘be implemented with modifications within thirty (30) days of the submission of a\nrecommendation for action by the Board to the Chief. See Sec. 2-2211(0) of the\nOrdinance 07.0.0141\n\nShey,\n2\na\n\nasl Bars\nBard Chair\n\nce: Mayor Kain Rad\n\nCini Present Ceasar Michel\n= ‘Members of the Atlanta City Council\n\n"" ‘ACRB Members\nre Executive Director Lee Reid\n\n55 Trinity Avenue, SW | City Hall Towor | Suite 9100 | Atlanta, GA 30303 | www.acrbgov.org | 404-865-9622\n\n']"
+21,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Chief Response,https://acrbgov.org/wp-content/uploads/2020/05/Chief-Response-12-11_Redacted.pdf,"['', 'CITY OF ATLANTA\n\nKasi Res 226 Peace Set SW ‘Arta Pole Daparert\noer Ata Georg 30003 eorgetTer\n(abs) sts000 Chit Pace\nJuly 11,2013,\nMr. Paul Bartels\n\n‘Atlanta Citizens Review Board\nCity Hall Tower, Suite 9100\n‘95 Trinity Avenue, SW\n‘Atlanta, Georgia 30303\n\nRE: 12-11, Complait\n\nDear Mr. Bartels:\n\nI am in receipt of the Atlanta Citizen Review Board’s letter, dated June 20, 2013,\nrecommending that the allegation of excessive force against Officer Christopher\n‘Thomton be sustained and not sustained against Officers Tyrone Hicks, Joseph Daniels\n‘and Lukasz Sajdak.\n\nAt this time, the Office of Professional Standards has not concluded its investigation into\nthe allegations surrounding the use of excessive force against Mr. Therefore, in\n‘an effort to be in compliance with the City Ordinance [Sec. 2-2211 (0)], 1 am obligated\nat this time to reject your recommendation as itis imperative that the Atlanta Police\nDepartment afford our employees their due process. Once the Office of Professional\nStandards has completed its investigation, I will reconsider the recommendation of the\nACRB\n\nMajor E. Dancy, Commander of the Office of Professional Standards, ean be contacted\nat (404) 658-7028, if you have any further concems regarding this complaint.\n\nSincerely,\n\nChieFof Potice\n\nGNT iw\n']"
+22,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Board letter to Chief,https://acrbgov.org/wp-content/uploads/2020/05/Board-letter-to-Chief-13-05_Redacted.pdf,"['', 'June 20,2013\n\n(Chief George Tuer\nCity of Atlanta Police Department\n226 Peachtree Stree, SW\n‘Allaota, Georgia 30303,\n\nRE: Complain of I ACRB File 13-05\n\near Chief Turner:\n\nPlease be advised that the Atlanta Citizen Review Board (ACRB) has\nconcluded its investigation and adjudication of the complaint filed by Mr.\n\nalleging that Atlanta Police Officer Antoine Harp (Unique ID # 3502) falsely\nEs ‘on November 30, 2012.\n\nThe Board determined that there was suficent evidence to Sustain the allegation\nagainst Officer Harp and is recommending the following discipline be imposed in\n\n‘© False ArrestOne (1) day suspension\n\n‘The file is available for review upon request. The ordinance requires that the\nChief respond in writing regarding which recommendations are accepted, rejected, ce wll\nbe implemented with modifications within thirty (30) days of the submission of 2\nrecommendation for action by the Board to the Chief See See. 2-2211(0) of the\nOrdinance 07-0.0141\n\n=: Mayor Kasim Reed\nCouncil President Ceasar Mitchell\n‘Members of the Atlanta City Couneil\nACRB Members\nExecutive Director Lee Reid\n\n55 Trinity Avenue, SW | City Hall Tower | Suite 9100 | Atlanta, GA 30303 | www.acrbgov.org | 404-865-8622\n']"
+23,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Chief Response,https://acrbgov.org/wp-content/uploads/2020/05/Chief-Response-13-05_Redacted.pdf,"['', ""CITY OF ATLANTA\n\n226 Peace Sot SW ‘Arn Poe Depart\n\nAeaen oor 30003 ‘George Tuer\n(abe st66000 ‘het Pace\nJuly 11, 2013,\n\nMr. Paul Bartels\n\n‘Ailanta Citizen Review Board\n\nCity Hall Tower, Suite 9100\n\n55 Trinity Avenue, SW\n\n‘Atlanta, Georgia 30303\n\nRE: 13-05 Comp hi\n\nDear Mr. Bartels:\n\nTam in receipt of the Atlanta Citizen Review Board’s leter dated June 20, 2013, in\nwhich it recommends the allegation that Officer Antoine Harp falsely arrested Mr.\nJon November 30, 2012 be sustained.\n\nThe Atlanta Police Department's Office of Professional Standards, (OPS), has concluded\nits investigation into this incident. The investigation did not reveal sufficient evidence to\nsustain Mr. {EEE allegation against Officer Harp. As a result thereof, violation of\nAilanta Police Department, (APD), and Employee Work Rule 4.1.01 (Appropriate\nAction Required) was not sustained.\n\nHaving assessed the Atlanta Citizens Review Board and the Department's investigative\nindings regarding this matter, I reject the findings of the Atlanta Citizens Review Board\n\nMajor E. Dancy, Commander of the Office of Professional Standards, can be contacted\nat (404) 658-7028, if you have any concems regarding this complaint\n\nSincerely,\n\nChief of Police\n\nGNT)iw\n""]"
+24,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Board Letter to Chief,https://acrbgov.org/wp-content/uploads/2020/05/Board-Letter-to-Chief-13-10_Redacted.pdf,"['', 'Maas: Wit,\n\nSn Rid\n\nMayor of Ataris\nKeim Re\n\ndra cy Counet\n\nitaly Mesby chido,\n\nKeka Line Bom\n\nJune 20, 2013\n\nChief George Turner\nCity of Alana Police Department\n226 Peachtree Steet, $.W.\n‘Alana, Georgia 30303\n\nRE: Complain of NN ACR File 13-10\nDear Chief Tomer:\n\nPease be advised that the Allaia Chizen Review Board (ACRE) has\n\nis investigation and adjudication of the complaint Gled by Mr.\n\nMMR stsge tt atzon roc omer Reginald Burks Unique 1D #4197) &\n\nSergeant Eddie Smith (Unique 1D # 1040) used excessive force against him during an\n\narrest that occured on December 16, 2012, Me NNN urbe alleged tha ring the\nincideat, Sergeant Smith was verbally abusive towards him.\n\n‘The Board determined that there was sufficient evidence to Sustain both\nallegations against Sergeant Smith, Therefore, the Board is recommending that the\nfollowing dseipline be imposed in concurrence:\n\n‘+ Excessive Foree-Five (5) day suspension\n‘© Abusive Language-One (1) day suspension\n\n“The Board determined thatthe excessive force allegation agains Officer Burks be\nassigned a finding of Unfounded,\n\n‘The file is available for review upon request. The ordinance requires thatthe\n\nChief respond in writing regarding which recommendations ae accepted, rejected, or will,\n\nbee implemented with modifications within thiny (30) days of the submission of a\n\nrecommendation for action by the Board to the Chief. See Sec. 22211(0) of the\n‘Ordinance 07-0-0141\n\nSincere\n\npia\n\naul Bartels\nBoard Chair\n\nec: Mayor Kasim Reed\nCouncil President Ceasar Mitchell\n‘Members ofthe Adnta City Council\n‘ACRB Members\n\nFeeewtive Rimrtor Tor Reid\n\n55 Trinity Avenue, SW | City Hall Tower | Suite 9100 | Atlanta, GA 30303 | www.acrbgov.org | 404-865-8622\n']"
+25,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Chief Response I Case Rejected,https://acrbgov.org/wp-content/uploads/2020/05/Chief-Response-13-10_Redacted.pdf,"['', ""CITY OF ATLANTA\n\nKasey Ren 228 Peaches Set SW Aare Pic Dsarrent\n‘ayer Ataen Georg 30303 ‘George NTanar\n(aot s46000 GnetotPatee\nJuly 11, 2013,\nMr. Paul Bartels\n\n‘Atlanta Citizens Review Board\nCity Hall Tower, Suite 9100\n55 Trinity Avenue, SW\nAtlanta, Georgia 30303,\n\nRE: 13-10, Conplin IY\n\nDear Mr, Bartels:\n\n1 am in receipt of the Atlanta Citizen Review Board's letter, dated June 20, 2013,\nrecommending that the allegations of excessive force and abusive language against\nSergeant Eadie Smith be sustained and the allegation of excessive force be unfounded\nagainst Officer Reginald Burks.\n\nAt this time, the Office of Professional Standards has not concluded its investigation into\nthe allegations surrounding the arrest of Mr. NEI ‘Therefore, in an effort to be in\ncompliance with the City Ordinance [Sec. 2-211 (0)], 1am obligated at this time to\nreject your recommendation as itis imperative thatthe Atlanta Police Department afford\ncour employees their due process. Once the Office of Professional Standards has\ncompleted its investigation, I will reconsider the recommendation ofthe ACRB.\n\nMajor E. Dancy, Commander of the Office of Professional Standards, can be contacted\nat (404) 658-7028, if you have any further concerns regarding this complaint.\n\nSincerely,\n\nChief of Potice\n\nGNTiw\n""]"
+26,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Chief Response II Case Rejected,https://acrbgov.org/wp-content/uploads/2020/05/Chief-2nd-Response-3-10_Redacted.pdf,"['', 'CITY OF ATLANTA\n\nasi Red 226 Faachone Stet SW “naa Pee Deparment\n‘ior “Aion, Gos 3300 ""Searge Ns taror\nvats 6000 nao Poice\nJuly 30,2014\n\nMr. William Harrison\nAlat Citizen Review Board\nCity Hall Tower, Suite 9100\n55 Trinity Avenue, SW.\n\nAtlanta, Georgia 30303\n\nRE: 3-10 Complsint\nDear Mr. Harrison\n\n| am in receipt ofthe Atlanta Citizen Review Board\'s letter, dated June 20, 2013, recommending\nthatthe allegations of excessive force and abusive language against Sergeant Eddie Smith be\nsustained and the allegation of excessive force be unfounded against Officer Reginald Burks.\n\nThe Alara Police Deparment forwarded response lt indicating ihe Ofc of Professonl\nStandard (OPS) had not conceit investigation into the allegation surrounding am incident\nTending Sergeant Eddie Smith, Officer Reginald Burks and San\n‘ecndinghy, halt ees your recommendation At hist, the investigation fs conte\nnd ssa result terol, twas determined that Officer Reginald Burks should be exonerated of\nthe allegation that he violated Atlanta Police Deparment Employee Work Rule 4.250,\nUnnecesary Force. Furthermore, asa result of the investigation is was dctermined tht the\nAllegation ofthe vilation APD Employee Work Rule 4.2.50 Unceny Force be ot util\n{nd the alleaton ofthe violation APD Eimployee Work Rale 422” Courtesy be ssained\npsn Sergeant Edn Smith\n\nHaving assessed the Atlanta Citizens Review Board and the Department\'s investigative Findings\nregarding this matter, reject the findings of the Atlanta Citizens Review Board\n\nMajor V. Dalton, Commander ofthe Office of Professional Standards can be contacted at (408)\n1658-7028, ifyou have any concerns regarding this complaint.\n\nSincerely,\n\nChief of Police\n\nGNTiw\n']"
+27,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Board Letter to Chief,https://acrbgov.org/wp-content/uploads/2020/05/Board-Letter-to-Chief-12-49_Redacted.pdf,"['', '© ‘FILE Copy\n\nACRE Members\nPou sartets March 29, 2013\n\n‘Maceo C. Witlams,s\nAlan Morris\n\nCie George Turner\nitgozerth City of Alana Police Department\nwim Harrison 226 Peachire Sirct, SW.\nBarbara Hubbard Atlanta, Georgia 30303\nyan ¢ Jonson RE: Complaint of ACRB File 12-49\nuth Price\nSamuel Lee Red Kad\nend Please be advised tat the Alana Citizen Review Board (ACRB) has\n\nconcluded its investigation and adjudication of the complain fled by Ms\nMayor of tanta alleging tat Atlanta Potice Officers Patrick Sullivan (Unique ID # $771) & Gabriel\nKasim Rea ‘Gamer (Unique ID # $049) flsey imprisoned her when they improperly detained her\n\nuring traf top on September 25,2012.\nAtlanta Cty Councit a iene be\n\nCeasar iene ‘The Board determined that there was not sficient evidence to sustain he alse\nimprisonment allegation against the offices and assigned a fading of wt sustained\n\nGroen\nwana Mal ‘The file is availabe for review upon request. The ordinance requires thatthe\namie Chief respond in writing regarding which recommendations are accepted, rejected, or will\n\'ory62Y0UNEF. —etmplemented with moaifeatins within tty (0) dy ofthe seston at\nare ‘ecommentation fr aon bythe Board tthe Chi, Se Sex 22211(0) tthe\nea Ordinance 7.011\nrata Mosby Sine,\nflocnder wan prt B-\n\nfoward Shook Paul Bartels\nnoes Board Chair\nFetes A.More ge: Mayr Kasim Reed\n\n‘Council President Ceasar Mitchell\nMembers ofthe Adanta City Council\nKeisha tance Bottoms ACR Members\n\nsey Executive Director Lee Reid\n\nClarence 7. Martin\n\n""55 Trinity Avenue, SW | City Hall Tower | Suite 9100 | Atlanta, GA 30303 | www.acrbgov.org | 404-865-8622\n']"
+28,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Chief Response,https://acrbgov.org/wp-content/uploads/2020/05/Chief-Response-12-49_Redacted-1.pdf,"['', ""CITY OF ATLANTA\n\nKase Ros 225 Peace Sot SW ‘Mia Pcie Dearnent\ntayer “Ata Coors 3300 “Gerge Tne\n(abn s466000 Chto Poe\nApril 30, 2013,\nMr Paul Bartels\n\nAtlanta Citizen Review Board\nCity Hall Tower, Suite 9100\n55 Trinity Avenue, SW\nAtlanta, Georgia 30303,\n\nRE: 1249 Comphint\n\n1 am in recip ofthe Atlanta Citizen Review Boar's leer dated March 29,2013 in\nwhich it recommends thatthe allegation tha Oficer Pack Sullivan and Gabel Garner\nfalely inprsoned IMMMMMRINR Scing a wale stop on September 25,2012 be not\nFoote\n\nThe Atlanta Police Department's Ofice of Professional Standards, (OPS), has concluded\nits investigation into this incident, As a result thereof, an alleged violation of Atlanta\nPolice Department, (APD), Employee Work Rule 4.1.01 (Appropriate Action Required)\nwas not sustained against Officer Sullivan.\n\nHaving assessed the Atlanta Citizens Review Board and the Department's investigative\nfindings regarding this matter, | accept the findings of the Atlanta Citizens Review\nBoard.\n\nMajor E. Dancy, Commander of the Office of Professional Standards, can be contacted\nat (404) 658-7028, if you have any concems regarding this complaint,\n\nSincerely,\n\nRM —\n\norgeN. Tuer\nChief of Police\n\nGNTiw\n\nReceived by:\n""]"
+29,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Board Letter to Chief,https://acrbgov.org/wp-content/uploads/2020/05/Board-Letter-to-Chief-12-22_Redacted.pdf,"['', ""=\ne\nRevie* March29, 2013\nACR MEMBERS\nPout tacts\nNoce0°C iam, Sr. Chie George Turner\nshan Ailanta Police Department\nAlan worris 226 Peachree Stet, SW.\nAtlanta, Georgia 30303\njinBozartn\naliam Harrison\neselteteel RE: Complaint of I, ACRB File 12-22\nlabrah tee i\nChars Jonson Ute\nBran Johnson Pease be advised that the Alana Citizen Review Board (ACRB) bas\nuth Price concluded its investigation and adjudication of the complain fed -y\nalleging that on June 18,2012 and July 4, 2012, Atlanta Police Oicer Kennet B.\nsomveieeeis,» Thomas (Unique ID # 4847) falsely arescd him at Woodraff Park. Mr IN further\nSerucere. alleged that drng the July 4 incident, Officer Thomas used excessive force aginst him.\nMAYOR OF ATLANTA The Board determined that thre was sufficient evidence to sustain bth excessive\nasim Reed force and false arestellegations gaint Officer Thomas. Therefor, the Board is\nrecommending that the following daciplne be imposed in concurrence:\nATANTA ITY COUNCIL\nane Excessive Force ~ Three (3) day suspension\n= False Arrest~ Taree 3) day suspension\narash\nven ‘The files avalabe for review upon request. The onfinance requires that the\nret Chiet respon in writing regarding which recommendations are accepted, rejected, or will\n\nbbe implemented with modifications within thirty (30) days of the submission of\n\nIvory te Young, J.\n° recommendation fraction bythe Board othe Chet See Sec. 2211(0) ofthe\n\neta wnsow ‘Ordinance 07-0.0141\na I'you have any questions or concerns, please fee fee to contact Le Reid or me\nAlexander Wan at (404) 865.8622.\n\nHoward Snook\n‘Yolanda Adan\n\nFela A Moore\n\nGarence 7. Marin\n\ntm ‘2: Mayor Kasim Reed\n\nKeto acesotoms °° aati Re Mickel\nal Members of Alena Cy Counc\nJoyce sneer CRB Memes\n\nfalehael Juan eon ‘Samuel Lee Reid, ACRB Executive Director\n\n55 Trinity Avenue, SW | City Hall Tower | Suite 9100 | Atlanta, GA 30303 | www.acrbgov.org | 404-865-8622\n""]"
+30,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Chief Response,https://acrbgov.org/wp-content/uploads/2020/05/Chief-Response-12-22_Redacted-1.pdf,"['', 'CITY OF ATLANTA\n\nKain Red 226 Pence See SA ‘Mtns Poe Daprert\n‘Mayor Aas, Georg 30808 George Tuner\n‘usasweea0 Chto Poe\nApril 30, 2013,\nMr. Paul Bartels\n\nAilanta Citizens Review Board\n\nAltlanta, Georgia 30303\n\nRE: 12-22, Comin\nDear Mr. Bartels:\n\n1 am in rcpt of the Aaa Citizen Review Boat’ eter, dated March 28,2013,\nrecommending thatthe allegations thal Officer Kenneth B. Thomas isly eresed\nMII one 18.2012 and July 4, 2012; and that Officer Thomas wed\nexcessive force against Mr. Ion July 4, 2012 be sustained.\n\nAt this time, the Office of Professional Standards has not concluded its investigation into\nthe allegations surrounding the arrest of Mr. Blocker. Therefore, in an effort to be in\ncompliance with the City Ordinance (Sec. 2-211 (0)], 1 am obligated at this time to\nReject your recommendation as it is imperative that the Atlanta Police Department\nafford its employees due process, Once the Office of Professional Standards has\ncompleted its investigation, I will reconsider the recommendation of the ACRB.\n\nMajor E. Dancy, Commander of the Office of Professional Standards, can be contacted\nat (404) 658-7028, if you have any further concems regarding this complaint.\n\nChief of Police\n\nGNTjjw\n\nReceived by:\nTELIA\n']"
+31,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Board Letter to Chief,https://acrbgov.org/wp-content/uploads/2020/05/Board-Letter-to-Chief-12-23_Redacted.pdf," 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACRB Members 
+Paul Bartels 
+Chairperson 
+Maceo C. Williams, Sr. 
+Vice Chairperson 
+Alan Morris 
+Secretary 
+ 
+Bill Bozarth 
+William Harrison 
+Barbara Hubbard 
+Charis Johnson 
+Ryan C. Johnson 
+Labriah Lee 
+Ruth Price 
+Samuel Lee Reid 
+Executive Director 
+ 
+Mayor of Atlanta 
+Kasim Reed 
+ 
+Atlanta City Council 
+Ceasar C. Mitchell 
+President 
+Carla Smith 
+District 1 
+Kwanza Hall 
+District 2 
+Ivory Lee Young, Jr. 
+District 3 
+Cleta Winslow 
+District 4 
+Natalyn Mosby Archibong 
+District 5 
+Alexander Wan 
+District 6 
+Howard Shook 
+District 7 
+Yolanda Adrean 
+District 8 
+Felicia A. Moore 
+District 9 
+Clarence T. Martin 
+District 10 
+Keisha Lance Bottoms 
+District 11 
+Joyce Sheperd 
+District 12 
+Michael Julian Bond 
+Post 1 
+Aaron Watson 
+Post 2 
+H. Lamar Willis 
+Post 3 
+ 
+55 Trinity Avenue, SW | City Hall Tower | Suite 9100 | Atlanta, GA 30303 | www.acrbgov.org | 404-865-8622 
+ 
+ 
+March 29, 2013 
+ 
+ 
+ 
+ 
+Chief George Turner 
+City of Atlanta Police Department 
+226 Peachtree Street, S.W. 
+Atlanta, Georgia 30303 
+ 
+ 
+RE: Complaint of 
+ ACRB File 12-23  
+ 
+ 
+Dear Chief Turner: 
+ 
+Please be advised that the Atlanta Citizen Review Board (ACRB) has 
+concluded its investigation and adjudication of the complaint filed by Mr. 
+ 
+alleging that Atlanta Police Officer Kenneth B. Thomas (Unique ID # 4847) used 
+excessive force and falsely arrested him during an incident that occurred on July 4, 2012 
+at Woodruff Park.   
+ 
+The Board determined that there was not sufficient evidence to sustain the 
+excessive force allegation and assigned a finding of not sustained; however, the false 
+arrest allegation against Officer Thomas was sustained.  Therefore, the Board is 
+recommending that the following discipline be imposed: 
+ 
+ False Arrest – Officer Kenneth B. Thomas - Three (3) day suspension   
+ 
+The file is available for review upon request.  The ordinance requires that the 
+Chief respond in writing regarding which recommendations are accepted, rejected, or will 
+be implemented with modifications within thirty (30) days of the submission of a 
+recommendation for action by the Board to the Chief.  See Sec. 2-2211(O) of the 
+Ordinance 07-0-0141 
+Sincerely, 
+ 
+Paul Bartels 
+Board Chair  
+ 
+ 
+cc:  Mayor Kasim Reed 
+ 
+Council President Ceasar Mitchell  
+ 
+Members of the Atlanta City Council 
+ 
+ACRB Members 
+Executive Director Lee Reid 
+"
+32,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Chief Response,https://acrbgov.org/wp-content/uploads/2020/05/Chief-Responses-12-23_Redacted-1.pdf,"['', ""CITY OF ATLANTA\n\nasin Road 226 Peace Sot SW ‘Ars Poe Doparent\n‘war Asai, Georg 30803 George Taner\n(aan 46000 Chote Pot\nApril 30, 2013,\nMr. Paul Bartels\n\nAilanta Citizen Review Board\nCity Hall tower, Suite 9100\n5 Trinity Avenue, SW\n‘Alanta, Georgia 30303\n\nRE: 1223,Complint o\n\n| am in receipt of the Atlanta Citizen Review Board's letter dated March 29, 2013, in\nwhich it recommends thatthe allegation that Officer Kenneth B, Thomas used excessive\nforce against Mr III on July 4, 2012 be sustained.\n\nThe Atlanta Police Department's Office of Professional Standards, (OPS), has concluded\nits investigation into this incident. As a result thereof, Officer Thomas was exonerated\nOf the allegation that he violated Atlanta Police Department, (APD), Employee Work\nRule 4.2.33 (Conformance to Directives APD SOP 3030 Arrest Procedures 4.1.4 (1a).\n‘The investigative findings did not suggest any use of unnecessary force on the part of\nOfficer Kenneth Thomas.\n\nHaving assessed the Atlanta Citizens Review Board and the Department's investigative\nfindings regarding this matter, I reject the findings of the Atlanta Citizens Review Board,\n\nMajor E. Dancy, Commander of the Office of Professional Standards, can be contacted\nat (404) 658-7028, if you have any concems regarding this complaint\n\nSincerely,\n\na\n\nGeorge N. Turner\nChief of Police\n\nGNTiw\n\n""]"
+33,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Board Letter to Chief,https://acrbgov.org/wp-content/uploads/2020/05/Board-Letter-to-Chief-12-28_Redacted.pdf," 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACRB MEMBERS 
+Paul Bartels 
+Chairperson 
+William Harrison 
+Vice-Chairperson 
+Alan Morris 
+Secretary 
+ 
+Bill Bozarth 
+Barbara Hubbard 
+Labriah Lee 
+Charis Johnson 
+Ryan Johnson 
+Ruth Price 
+Maceo Williams, Sr. 
+ 
+Samuel Lee Reid, II 
+Executive Director 
+ 
+MAYOR OF ATLANTA 
+Kasim Reed 
+ 
+ATLANTA CITY COUNCIL 
+Ceasar C. Mitchell 
+President 
+Carla Smith 
+District 1 
+Kwanza Hall 
+District 2 
+Ivory Lee Young, Jr.  
+District 3 
+Cleta Winslow 
+District 4 
+Natalyn Mosby Archibong 
+District 5 
+Alexander Wan 
+District 6 
+Howard Shook 
+District 7 
+Yolanda Adrean  
+District 8 
+Felicia A. Moore 
+District 9 
+Clarence T. Martin 
+District 10 
+Keisha Lance Bottoms  
+District 11 
+Joyce Sheperd 
+District 12 
+Michael Julian Bond 
+Post 1-At-Large 
+Aaron Watson 
+Post 2-At-Large 
+H. Lamar Willis 
+Post 3-At-Large 
+ 
+January 23, 2013 
+ 
+ 
+ 
+Chief George Turner 
+Atlanta Police Department 
+226 Peachtree Street, S.W. 
+Atlanta, Georgia  30303 
+ 
+ 
+RE: Complaint of 
+, ACRB File 12-28 
+ 
+Dear Chief Turner: 
+ 
+ 
+Please be advised that the Atlanta Citizen Review Board (ACRB) has concluded its 
+investigation and adjudication of the complaint filed by 
+ alleging that Atlanta 
+Police Officer Terrance Malone (Unique ID # 3995) falsely arrested him during an incident 
+that occurred on June 8, 2012 at 2151 Campbellton Road, S.W.  The Board determined that 
+there was sufficient evidence to sustain the false arrest allegation against Officer Malone.  
+ 
+It is the Board’s understanding that Officer Malone received discipline on the 
+above allegation prior to the Board’s decision and recommendation; therefore, pursuant to 
+City Ord. Sec. 2-2211 (M)(4), the Board does not recommend additional discipline against 
+Officer Malone.  However, the Board recommends that, in addition to the discipline 
+received, Officer Malone receive counseling regarding the APD arrest policies and 
+procedures from his supervisor.  
+ 
+The file is available for review upon request.  
+ 
+If you have any questions or concerns, please feel free to contact Lee Reid or me at 
+(404) 865-8622.  
+ 
+ 
+Sincerely, 
+ 
+Paul Bartels, 
+Board Chair  
+ 
+PB/ms 
+ 
+cc: Mayor Kasim Reed 
+Council President Ceasar Mitchell 
+Members of Atlanta City Council 
+ACRB Members 
+Samuel Lee Reid, ACRB Executive Director  
+55 Trinity Avenue, SW | City Hall Tower | Suite 9100 | Atlanta, GA 30303 | www.acrbgov.org | 404-865-8622
+"
+34,,"['Complaints', '12-Dec-13', 'Case #12-50', 'False Imprisonment', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-57', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', '14-Nov-13', 'Case #13-48', 'False Arrest', 'Boad Letter to Chief', 'Chief Response', '10-Oct-13', 'Case #13-34', 'Excessive Force', 'Not Sustained', 'Chief Responses', 'Case #13-49', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'Not Sustained/Sustained (PDF)', 'Chief Response Case 13-49 (Redacted)', 'Chief 2nd Response Rejected (Redacted)', '12-Sep-13', 'Case #12-53', 'False Arrest', 'Excessive Force', 'Not Sustained', 'Chief Response', 'Case #13-38', 'Harassment', 'Board Letter to Chair', 'Chief Response', 'Case #13-35', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '8-Aug-13', 'Case #13-03', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Board Letter to Chief', 'Chief Response', 'Case #13-07', 'False Arrest', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', '', 'Chief Response', '11-Jul-13', 'Case #12-34', 'Excessive Force', 'Not Sustained', 'Chief Response', '13-Jun-13', 'Case #12-11', 'Excessive Force', 'Board Letter to Chief', 'Chief Response', 'Case #13-05', 'False Arrest', 'Board letter to Chief', 'Chief Response', 'Case #13-10', 'Excessive Force', 'Abusive Language', '', 'Board Letter to Chief', 'Chief Response I Case Rejected', 'Chief Response II Case Rejected', '9-May-13', 'Case #12-10', '11-Apr-13', 'Case #12-62', 'Case #12-38', 'Dismissed', 'Case #12-39', 'Dismissed', '14-Mar-13', 'Case #12-49', 'False Imprisonment', 'Board Letter to Chief', 'Chief Response', 'Case #12-14', 'Dismissed', 'Case #12-51', 'Dismissed', 'Case #12-22', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', 'Case #12-23', 'Excessive Force', 'False Arrest', 'Board Letter to Chief', 'Chief Response', '10-Jan-13', 'Case #12-28', 'False Arrest', 'Board Letter to Chief', 'Chief Response']","['False Imprisonment', 'Abusive Language', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Excessive Force', 'Abusive Language', 'False Imprisonment', 'False Arrest', 'Excessive Force', 'Harassment', 'False Arrest', 'False Arrest', 'Excessive Force', 'Abusive Language', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Excessive Force', 'Excessive Force', 'False Arrest', 'Excessive Force', 'Abusive Language', 'Dismissed', 'Dismissed', 'False Imprisonment', 'Dismissed', 'Dismissed', 'Excessive Force', 'False Arrest', 'Excessive Force', 'False Arrest', 'False Arrest']",Chief Response,https://acrbgov.org/wp-content/uploads/2020/05/Chief-Response-12-28_Redacted.pdf,"['', ""CITY OF ATLANTA\n\na tint sacgtenteeent\na warts Sher\nFeb 6,201\nMat at\n\nAtlanta Citizens Review Board\nCity Hall Tower, Suite 9100\n55 Trinity Avenue, SW\nAtlanta, Ga. 30303,\n\nRE: 12.28, Complaint of\n\nDear Mr. Bartels:\n\n1am in receipt of the Atlanta Citizens Review Board’s leter dated January 23, 2013,\nwhich it recommends that the allegation that Officer Terrance Malone falsely arrest\n\nMr on June 8, 2012 be sustained.\n\nThe Atlanta Police Department’s Office of Professional Standards (OPS) has concluded\nits investigation into this incident. As a result thereof, the allegation that Officer Malone\nViolated Atlanta Police Department Work Rule 42.33 Conformance to Directives\n(Arrest Procedures 3030 4.1.4 Arrest without a Warrant) was Sustained,\n\nHaving assessed the Atlanta Citizens Review Board and the Department's investigative\nfindings regarding this matte, | accept the finding ofthe Atlanta Citizens Review Board\n\nMajor E. Dancy, Commander of the Office of Professional Standards, can be contacted\nat (404) 658-7028, if you have any conegms regarding this complaint.\n\nSincerely,\n\nChief of Police\n\nAUS pad—\n""]"
